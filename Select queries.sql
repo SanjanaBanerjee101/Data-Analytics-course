@@ -1,3 +1,5 @@
+# Select statement is used to filter columns.
+  
 # for selecting and displaying everything in the table
 SELECT * 
 FROM employee_demographics;
